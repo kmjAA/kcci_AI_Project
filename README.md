@@ -11,4 +11,5 @@
 ![image](https://github.com/user-attachments/assets/6ff4cf9f-f7aa-489e-97ed-db9be2b942fb)
 
 # 시연 영상
-<img width="836" alt="image" src="https://github.com/user-attachments/assets/3c85e660-9713-4a11-b95b-56872c4c177e">
+<img width="447" alt="image" src="https://github.com/user-attachments/assets/bb764406-056b-4671-8471-49ae0cd585fb">
+
