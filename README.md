@@ -4,7 +4,11 @@
 
 제스처를 통해 블러 처리, 배경 합성, 얼굴 필터 등 사생활 보호 기능을 직관적으로 조작할 수 있는 기능을 제공하여 사용자가 개인 정보를 보다 안전하게 관리할 수 있도록 지원하는 것이 목표이다.
 
-#System Diagram
+# System Diagram
 ![image](https://github.com/user-attachments/assets/87095b64-c252-494c-a50f-24de7e30204e)
 
+# 주요 기능
+![image](https://github.com/user-attachments/assets/6ff4cf9f-f7aa-489e-97ed-db9be2b942fb)
+
+# 구현 장면
 
